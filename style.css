@@ -1,0 +1,43 @@
+body {
+  background-color: gray;
+}
+.box {
+  text-align: justify;
+  width: 680px;
+  background-color: whitesmoke;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 17px;
+  padding: 15px;
+  word-spacing: 1px;
+}
+.address {
+  margin-left: 25rem;
+  line-height: 5px;
+}
+.receiver {
+  line-height: 5px;
+}
+.salute {
+  font-style: italic;
+  margin-top: 40px;
+}
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+div .p {
+  margin-bottom: 50px;
+}
+.closing {
+  margin-left: 25rem;
+}
+.line {
+  border: solid;
+  border-color: black;
+  border-width: 0.5px;
+  margin-top: 45px;
+  width: 10rem;
+}
